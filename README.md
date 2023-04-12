@@ -4,7 +4,6 @@
 <div style="display: flex; justify-content: space-between;">
   
   <div>
-    
     <h3>🌱 my skills</h3>
     <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=py,django,sqlite" /><br>
     <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=html,css,bootstrap" />
