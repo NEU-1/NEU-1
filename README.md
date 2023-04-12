@@ -14,7 +14,7 @@
 
 ### 🌱 my skills
 <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=py,django,sqlite" />
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=css,html,bootstrap" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=html,css,bootstrap" />
 
 ### 🌱 I’m currently learning
 <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=java,spring,mysql" />
