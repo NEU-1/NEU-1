@@ -1,3 +1,9 @@
+<div align="center">
+  <a href="https://timkayhou.com/">
+    <img src="https://raw.githubusercontent.com/timkayhou/my-pictures/main/gif/Cat-Nyan-Gif.gif"/>
+  </a>
+</div>
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NEU-chaldea/NEU-chaldea/output/github-contribution-grid-snake-dark.svg">
