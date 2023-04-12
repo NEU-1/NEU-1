@@ -2,7 +2,7 @@
 
 
 <div style="display:flex;">
-  <div style="flex:1;">
+  <div style="flex:left;">
     <h3>🌱 my skills</h3>
     <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=py,django,sqlite" /><br>
     <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=html,css,bootstrap" />
@@ -12,7 +12,7 @@
     <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=github,gitlab,git,vscode" />
   </div>
     
-  <div style="flex:1;text-align:right;">
+  <div style="flex:right;">
     <a href="https://timkayhou.com/">
       <img src="https://raw.githubusercontent.com/timkayhou/my-pictures/main/gif/Cat-Nyan-Gif.gif"/>
     </a>
