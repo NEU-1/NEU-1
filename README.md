@@ -20,12 +20,12 @@
   </picture>
 
 
-  <img height="225" src="http://mazassumnida.wtf/api/generate_badge?boj=cjsrhd882"/>
+  <img weight="400" src="http://mazassumnida.wtf/api/generate_badge?boj=cjsrhd882"/>
   <a href="https://timkayhou.com/">
-    <img height="225" src="https://raw.githubusercontent.com/timkayhou/my-pictures/main/gif/Cat-Nyan-Gif.gif"/>
+    <img weight="400" src="https://raw.githubusercontent.com/timkayhou/my-pictures/main/gif/Cat-Nyan-Gif.gif"/>
   </a>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=NEU-chaldea&show_icons=true&theme=noctis_minimus"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NEU-chaldea&layout=compact&theme=tokyonight" />
+  <img weight="400" src="https://github-readme-stats.vercel.app/api?username=NEU-chaldea&show_icons=true&theme=noctis_minimus"/>
+  <img weight="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NEU-chaldea&layout=compact&theme=tokyonight" />
 </div>
   
     
