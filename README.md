@@ -12,11 +12,11 @@
 <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=github,gitlab,git,vscode" />
 <div/>
 	
-<div align="right">
+<!-- <div align="right">
   <a href="https://timkayhou.com/">
     <img src="https://raw.githubusercontent.com/timkayhou/my-pictures/main/gif/Cat-Nyan-Gif.gif"/>
   </a>
-</div>
+</div> -->
 
 
 <picture>
