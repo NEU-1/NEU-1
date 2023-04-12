@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=jiho_seo&fontSize=70)
 
-<div><br><br>
-### 🌱 my skills<br>
+<div><br>
+### 🌱 my skills<br>### 🌱 my skills<br>
 <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=py,django,sqlite" /><br>
 <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=html,css,bootstrap" />
 
