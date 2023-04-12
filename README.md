@@ -1,8 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=jiho_seo&fontSize=70)
 
-<div style="display: flex; justify-content: space-between;">
+
   <div>
-    
     <h3>🌱 my skills</h3>
     <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=py,django,sqlite" /><br>
     <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=html,css,bootstrap" />
@@ -14,12 +13,13 @@
     <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=github,gitlab,git,vscode" />
   </div>
 
-  <div>
+  <div style="text-align: right;">
     <a href="https://timkayhou.com/">
       <img src="https://raw.githubusercontent.com/timkayhou/my-pictures/main/gif/Cat-Nyan-Gif.gif"/>
     </a>
   </div>
 </div>
+
 
 
 <picture>
