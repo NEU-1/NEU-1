@@ -9,7 +9,6 @@
     <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=html,css,bootstrap" />
     <h3>🌱 I’m currently learning</h3>
     <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=java,spring,mysql" />
-
     <h3>🌱 my tools</h3>
     <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=github,gitlab,git,vscode" />
     
