@@ -19,13 +19,14 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/NEU-chaldea/NEU-chaldea/output/github-contribution-grid-snake.svg">
   </picture>
 
-
-  <img height="215" src="http://mazassumnida.wtf/api/generate_badge?boj=cjsrhd882"/>
-  <a href="https://timkayhou.com/">
-    <img height="215" src="https://raw.githubusercontent.com/timkayhou/my-pictures/main/gif/Cat-Nyan-Gif.gif"/>
-  </a>
+  [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=cjsrhd882)](https://solved.ac/cjsrhd882)
+  <img height="215" src="https://raw.githubusercontent.com/timkayhou/my-pictures/main/gif/Cat-Nyan-Gif.gif"/>
   <img height="162" src="https://github-readme-stats.vercel.app/api?username=NEU-chaldea&show_icons=true&theme=noctis_minimus"/>
   <img height="162" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NEU-chaldea&layout=compact&theme=tokyonight" />
 </div>
   
-    
+    [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=gds0813)](https://solved.ac/gds0813)
+
+<a href="https://solved.ac/profile/cjsrhd882">
+    <img height="215" src="http://mazassumnida.wtf/api/generate_badge?boj=cjsrhd882"/>
+  </a>
