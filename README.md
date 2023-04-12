@@ -15,3 +15,5 @@
 
 ### 🌱 my tools
 <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=github,gitlab,git,vscode" />
+
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=cjsrhd882)](https://solved.ac/cjsrhd882)
