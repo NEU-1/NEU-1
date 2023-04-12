@@ -26,6 +26,5 @@
 <br>[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=cjsrhd882)](https://solved.ac/cjsrhd882)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NEU-chaldea&show_icons=true&theme=noctis_minimus)
-(https://github-readme-stats.vercel.app/api/top-langs/?username=NEU-chaldea&layout=compact&theme=tokyonight)
-	
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NEU-chaldea&theme=tokyonight">
 	
