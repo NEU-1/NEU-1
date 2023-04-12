@@ -24,8 +24,8 @@
   <a href="https://timkayhou.com/">
     <img height="220" src="https://raw.githubusercontent.com/timkayhou/my-pictures/main/gif/Cat-Nyan-Gif.gif"/>
   </a>
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=NEU-chaldea&show_icons=true&theme=noctis_minimus"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NEU-chaldea&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=NEU-chaldea&show_icons=true&theme=noctis_minimus"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NEU-chaldea&layout=compact&theme=tokyonight" />
 </div>
   
     
