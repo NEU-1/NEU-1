@@ -2,23 +2,21 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=jiho_seo&fontSize=70)
 
 
-<div style="display:flex;">
-  <div style="flex:1;">
-    <h3>🌱 my skills</h3>
-    <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=py,django,sqlite" /><br>
-    <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=html,css,bootstrap" />
-    <h3>🌱 I’m currently learning</h3>
-    <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=java,spring,mysql" />
-    <h3>🌱 my tools</h3>
-    <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=github,gitlab,git,vscode" />
-  </div><br>
 
-  <div style="text-align:right;">
-    <a href="https://timkayhou.com/">
-      <img src="https://raw.githubusercontent.com/timkayhou/my-pictures/main/gif/Cat-Nyan-Gif.gif"/>
-    </a>
-  </div>
-</div>
+<h1>🌱 my skills</h1>
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=py,django,sqlite" /width="300px">
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=html,css,bootstrap" /width="300px">
+<h1>🌱 I’m currently learning</h1>
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=java,spring,mysql" /width="300px">
+<h1>🌱 my tools</h1>
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=github,gitlab,git,vscode" /width="400px">
+
+
+
+<a href="https://timkayhou.com/">
+  <img src="https://raw.githubusercontent.com/timkayhou/my-pictures/main/gif/Cat-Nyan-Gif.gif"/>
+</a>
+
 
 
 
