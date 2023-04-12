@@ -11,7 +11,6 @@
     <h3>🌱 my tools</h3>
     <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=github,gitlab,git,vscode" />
   </div>
-
   <div style="flex:1;text-align:right;">
     <a href="https://timkayhou.com/">
       <img src="https://raw.githubusercontent.com/timkayhou/my-pictures/main/gif/Cat-Nyan-Gif.gif"/>
