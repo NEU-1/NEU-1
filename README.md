@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=jiho_seo&fontSize=70)
 
-<div>
+<div><br>
 ### 🌱 my skills
 <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=py,django,sqlite" />
 <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=html,css,bootstrap" />
@@ -12,11 +12,11 @@
 <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=github,gitlab,git,vscode" />
 <div/>
 	
-<!-- <div align="right">
+<div align="right">
   <a href="https://timkayhou.com/">
     <img src="https://raw.githubusercontent.com/timkayhou/my-pictures/main/gif/Cat-Nyan-Gif.gif"/>
   </a>
-</div> -->
+</div>
 
 
 <picture>
