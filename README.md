@@ -6,6 +6,7 @@
 
   <h1>🌱 my skills</h1>
   <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=py,django,sqlite" /width="300px">
+  <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=js,nodejs,vue" /width="300px">
   <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=html,css,bootstrap" /width="300px">
   <h1>🌱 I’m currently learning</h1>
   <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=java,spring,mysql" /width="300px">
