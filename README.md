@@ -5,14 +5,12 @@
 
 
   <h1>🌱 my skills</h1>
-  <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=py,django,sqlite" /width="300px">
-  <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=js,nodejs,vue" /width="300px">
-  <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=html,css,bootstrap" /width="300px">
+  <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=py,django,js" /width="300px">
+  <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=nodejs,html,css" /width="300px">
   <h1>🌱 I’m currently learning</h1>
-  <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=java,spring,mysql" /width="300px">
+  <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=react" /width="300px">
   <h1>🌱 my tools</h1>
-  <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=vscode,idea,md" /width="400px">
-  <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=github,gitlab,git" /width="400px">
+  <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=vscode,github,gitlab" /width="400px">
 
 
   <picture>
