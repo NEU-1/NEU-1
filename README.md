@@ -5,10 +5,9 @@
 
 
   <h1>🌱 my skills</h1>
-  <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=py,django,js" /width="300px">
-  <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=nodejs,html,css" /width="300px">
-  <h1>🌱 I’m currently learning</h1>
-  <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=react" /width="300px">
+  <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=react,django" /width="300px">
+  <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=js,ts,py" /width="300px">
+  <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=nodejs" /width="300px">
   <h1>🌱 my tools</h1>
   <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=vscode,github,gitlab" /width="400px">
 
