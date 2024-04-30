@@ -18,12 +18,9 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/NEU-1/NEU-1/output/github-contribution-grid-snake.svg"> 
   </picture>
   
-  <a href="https://solved.ac/profile/cjsrhd882">
-    <img height="215" src="http://mazassumnida.wtf/api/generate_badge?boj=cjsrhd882"/>
-  </a>
-  <img height="215" src="https://raw.githubusercontent.com/timkayhou/my-pictures/main/gif/Cat-Nyan-Gif.gif"/>
-  <img height="162" src="https://github-readme-stats.vercel.app/api?username=NEU-1&show_icons=true&theme=noctis_minimus"/>
-  <img height="162" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NEU-1&layout=compact&theme=tokyonight" />
+  <img height="500" src="https://raw.githubusercontent.com/timkayhou/my-pictures/main/gif/Cat-Nyan-Gif.gif"/>
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=NEU-1&show_icons=true&theme=noctis_minimus"/>
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NEU-1&layout=compact&theme=tokyonight" />
 </div>
   
     
